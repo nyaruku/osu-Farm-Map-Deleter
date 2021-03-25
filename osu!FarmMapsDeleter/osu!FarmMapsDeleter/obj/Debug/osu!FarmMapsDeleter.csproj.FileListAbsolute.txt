@@ -1,0 +1,17 @@
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\osu!FarmMapsDeleter.exe.config
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\osu!FarmMapsDeleter.exe
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\osu!FarmMapsDeleter.pdb
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\Osu!BeatmapDataReader.dll
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\OsuSongPathSearcher.dll
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\SmoothProgressBar.dll
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\obj\Debug\osu_FarmMapsDeleter.Form1.resources
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\obj\Debug\osu_FarmMapsDeleter.Properties.Resources.resources
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\obj\Debug\osu!FarmMapsDeleter.csproj.GenerateResource.cache
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\obj\Debug\osu!FarmMapsDeleter.csproj.CoreCompileInputs.cache
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\obj\Debug\osu!FarmMapsDeleter.csproj.CopyComplete
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\obj\Debug\osu!FarmMapsDeleter.exe
+C:\Users\Itona\source\repos\osu!FarmMapsDeleter\osu!FarmMapsDeleter\obj\Debug\osu!FarmMapsDeleter.pdb
