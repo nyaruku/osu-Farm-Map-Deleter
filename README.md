@@ -43,5 +43,6 @@ Kowari
 Shmiklak
 
 Lami
-
+...
+and deletes them
 --------------------------------------
